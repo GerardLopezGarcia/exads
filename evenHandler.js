@@ -14,18 +14,18 @@ function myClick(film_name) {
         <div id="progress" class="anim_1">
             <h3 id="progress_title">QUESTION 2 OF 3:</h3>
             <div>
-                <img src="/Assets/Ellipse 1.png" class="elipse e_1">
-                <img src="/Assets/Ellipse 3.png" class="elipse e_2">
-                <img src="/Assets/Ellipse 1.png" class="elipse e_3">
+                <img src="Assets/Ellipse_1.png" class="elipse e_1">
+                <img src="Assets/Ellipse_3.png" class="elipse e_2">
+                <img src="Assets/Ellipse_1.png" class="elipse e_3">
             </div>
 
         </div>
         <div id="choices">
             <h1 id="main_question" class="anim_1">Wich one do you like the most?</h1>
 
-            <a><img src="/Assets/image 3-3.png" class="thumbnail i_0 anim_1" id="top" onclick="myClick(this.id)"></a>
-            <a><img src="/Assets/image 3-4.png" class="thumbnail i_1 anim_1" id="bullet" onclick="myClick(this.id)"></a>
-            <a><img src="/Assets/image 3-5.png" class="thumbnail i_2 anim_1" id="thor" onclick="myClick(this.id)"></a>
+            <a><img src="Assets/image_3-3.png" class="thumbnail i_0 anim_1" id="top" onclick="myClick(this.id)"></a>
+            <a><img src="Assets/image_3-4.png" class="thumbnail i_1 anim_1" id="bullet" onclick="myClick(this.id)"></a>
+            <a><img src="Assets/image_3-5.png" class="thumbnail i_2 anim_1" id="thor" onclick="myClick(this.id)"></a>
         </div>
 
         </div>`
@@ -42,18 +42,18 @@ function myClick(film_name) {
         <div id="progress" class="anim_1">
             <h3 id="progress_title">QUESTION 2 OF 3:</h3>
             <div>
-                <img src="/Assets/Ellipse 1.png" class="elipse e_1">
-                <img src="/Assets/Ellipse 3.png" class="elipse e_2">
-                <img src="/Assets/Ellipse 1.png" class="elipse e_3">
+                <img src="Assets/Ellipse_1.png" class="elipse e_1">
+                <img src="Assets/Ellipse_3.png" class="elipse e_2">
+                <img src="Assets/Ellipse_1.png" class="elipse e_3">
             </div>
 
         </div>
         <div id="choices">
             <h1 id="main_question" class="anim_1">Wich one do you like the most?</h1>
 
-            <a><img src="/Assets/image 3-6.png" class="thumbnail i_0 anim_1" id="batman" onclick="myClick(this.id)"></a>
-            <a><img src="/Assets/image 3-7.png" class="thumbnail i_1 anim_1" id="spiderman" onclick="myClick(this.id)"></a>
-            <a><img src="/Assets/image 3-8.png" class="thumbnail i_2 anim_1" id="flash" onclick="myClick(this.id)"></a>
+            <a><img src="Assets/image_3-6.png" class="thumbnail i_0 anim_1" id="batman" onclick="myClick(this.id)"></a>
+            <a><img src="Assets/image_3-7.png" class="thumbnail i_1 anim_1" id="spiderman" onclick="myClick(this.id)"></a>
+            <a><img src="Assets/image_3-8.png" class="thumbnail i_2 anim_1" id="flash" onclick="myClick(this.id)"></a>
         </div>
 
         </div>`
@@ -69,18 +69,18 @@ function myClick(film_name) {
         <div id="progress" class="anim_1">
             <h3 id="progress_title">QUESTION 2 OF 3:</h3>
             <div>
-                <img src="/Assets/Ellipse 1.png" class="elipse e_1">
-                <img src="/Assets/Ellipse 3.png" class="elipse e_2">
-                <img src="/Assets/Ellipse 1.png" class="elipse e_3">
+                <img src="Assets/Ellipse_1.png" class="elipse e_1">
+                <img src="Assets/Ellipse_3.png" class="elipse e_2">
+                <img src="Assets/Ellipse_1.png" class="elipse e_3">
             </div>
 
         </div>
         <div id="choices">
             <h1 id="main_question" class="anim_1">Wich one do you like the most?</h1>
 
-            <a><img src="/Assets/image 3-3.png" class="thumbnail i_0 anim_1" id="top" onclick="myClick(this.id)"></a>
-            <a><img src="/Assets/image 3-4.png" class="thumbnail i_1 anim_1" id="bullet" onclick="myClick(this.id)"></a>
-            <a><img src="/Assets/image 3-5.png" class="thumbnail i_2 anim_1" id="thor" onclick="myClick(this.id)"></a>
+            <a><img src="Assets/image_3-3.png" class="thumbnail i_0 anim_1" id="top" onclick="myClick(this.id)"></a>
+            <a><img src="Assets/image_3-4.png" class="thumbnail i_1 anim_1" id="bullet" onclick="myClick(this.id)"></a>
+            <a><img src="Assets/image_3-5.png" class="thumbnail i_2 anim_1" id="thor" onclick="myClick(this.id)"></a>
         </div>
 
         </div>`
@@ -98,18 +98,18 @@ function myClick(film_name) {
             <div id="progress" class="anim_1">
                 <h3 id="progress_title">QUESTION 3 OF 3:</h3>
                 <div>
-                    <img src="/Assets/Ellipse 1.png" class="elipse e_1">
-                    <img src="/Assets/Ellipse 1.png" class="elipse e_2">
-                    <img src="/Assets/Ellipse 3.png" class="elipse e_3">
+                    <img src="Assets/Ellipse_1.png" class="elipse e_1">
+                    <img src="Assets/Ellipse_1.png" class="elipse e_2">
+                    <img src="Assets/Ellipse_3.png" class="elipse e_3">
                 </div>
     
             </div>
             <div id="choices">
                 <h1 id="main_question" class="anim_1">Which one do you want to watch now?</h1>
     
-                <a><img src="/Assets/image 3-6.png" class="thumbnail i_0 anim_1" id="batman" onclick="myClick(this.id)"></a>
-                <a><img src="/Assets/image 3-7.png" class="thumbnail i_1 anim_1" id="spiderman" onclick="myClick(this.id)"></a>
-                <a><img src="/Assets/image 3-8.png" class="thumbnail i_2 anim_1" id="flash" onclick="myClick(this.id)"></a>
+                <a><img src="Assets/image_3-6.png" class="thumbnail i_0 anim_1" id="batman" onclick="myClick(this.id)"></a>
+                <a><img src="Assets/image_3-7.png" class="thumbnail i_1 anim_1" id="spiderman" onclick="myClick(this.id)"></a>
+                <a><img src="Assets/image_3-8.png" class="thumbnail i_2 anim_1" id="flash" onclick="myClick(this.id)"></a>
             </div>
     
             </div>`
@@ -125,18 +125,18 @@ function myClick(film_name) {
         <div id="progress" class="anim_1">
             <h3 id="progress_title">QUESTION 3 OF 3:</h3>
             <div>
-                <img src="/Assets/Ellipse 1.png" class="elipse e_1">
-                <img src="/Assets/Ellipse 1.png" class="elipse e_2">
-                <img src="/Assets/Ellipse 3.png" class="elipse e_3">
+                <img src="Assets/Ellipse_1.png" class="elipse e_1">
+                <img src="Assets/Ellipse_1.png" class="elipse e_2">
+                <img src="Assets/Ellipse_3.png" class="elipse e_3">
             </div>
 
         </div>
         <div id="choices">
             <h1 id="main_question" class="anim_1">Which one do you want to watch now?</h1>
 
-            <a><img src="/Assets/image 3-3.png" class="thumbnail i_0 anim_1" id="top" onclick="myClick(this.id)"></a>
-            <a><img src="/Assets/image 3-4.png" class="thumbnail i_1 anim_1" id="bullet" onclick="myClick(this.id)"></a>
-            <a><img src="/Assets/image 3-5.png" class="thumbnail i_2 anim_1" id="thor" onclick="myClick(this.id)"></a>
+            <a><img src="Assets/image_3-3.png" class="thumbnail i_0 anim_1" id="top" onclick="myClick(this.id)"></a>
+            <a><img src="Assets/image_3-4.png" class="thumbnail i_1 anim_1" id="bullet" onclick="myClick(this.id)"></a>
+            <a><img src="Assets/image_3-5.png" class="thumbnail i_2 anim_1" id="thor" onclick="myClick(this.id)"></a>
         </div>
 
         </div>`
@@ -154,18 +154,18 @@ function myClick(film_name) {
             <div id="progress" class="anim_1">
                 <h3 id="progress_title">QUESTION 3 OF 3:</h3>
                 <div>
-                    <img src="/Assets/Ellipse 1.png" class="elipse e_1">
-                    <img src="/Assets/Ellipse 1.png" class="elipse e_2">
-                    <img src="/Assets/Ellipse 3.png" class="elipse e_3">
+                    <img src="Assets/Ellipse_1.png" class="elipse e_1">
+                    <img src="Assets/Ellipse_1.png" class="elipse e_2">
+                    <img src="Assets/Ellipse_3.png" class="elipse e_3">
                 </div>
     
             </div>
             <div id="choices">
                 <h1 id="main_question" class="anim_1">Which one do you want to watch now?</h1>
     
-                <a><img src="/Assets/image 3-6.png" class="thumbnail i_0 anim_1" id="batman" onclick="myClick(this.id)"></a>
-                <a><img src="/Assets/image 3-7.png" class="thumbnail i_1 anim_1" id="spiderman" onclick="myClick(this.id)"></a>
-                <a><img src="/Assets/image 3-8.png" class="thumbnail i_2 anim_1" id="flash" onclick="myClick(this.id)"></a>
+                <a><img src="Assets/image_3-6.png" class="thumbnail i_0 anim_1" id="batman" onclick="myClick(this.id)"></a>
+                <a><img src="Assets/image_3-7.png" class="thumbnail i_1 anim_1" id="spiderman" onclick="myClick(this.id)"></a>
+                <a><img src="Assets/image_3-8.png" class="thumbnail i_2 anim_1" id="flash" onclick="myClick(this.id)"></a>
             </div>
     
             </div>`
@@ -181,18 +181,18 @@ function myClick(film_name) {
             <div id="progress" class="anim_1">
                 <h3 id="progress_title">QUESTION 3 OF 3:</h3>
                 <div>
-                    <img src="/Assets/Ellipse 1.png" class="elipse e_1">
-                    <img src="/Assets/Ellipse 1.png" class="elipse e_2">
-                    <img src="/Assets/Ellipse 3.png" class="elipse e_3">
+                    <img src="Assets/Ellipse_1.png" class="elipse e_1">
+                    <img src="Assets/Ellipse_1.png" class="elipse e_2">
+                    <img src="Assets/Ellipse_3.png" class="elipse e_3">
                 </div>
     
             </div>
             <div id="choices">
                 <h1 id="main_question" class="anim_1">Which one do you want to watch now?</h1>
     
-                <a><img src="/Assets/image 3-6.png" class="thumbnail i_0 anim_1" id="batman" onclick="myClick(this.id)"></a>
-                <a><img src="/Assets/image 3-7.png" class="thumbnail i_1 anim_1" id="spiderman" onclick="myClick(this.id)"></a>
-                <a><img src="/Assets/image 3-8.png" class="thumbnail i_2 anim_1" id="flash" onclick="myClick(this.id)"></a>
+                <a><img src="Assets/image_3-6.png" class="thumbnail i_0 anim_1" id="batman" onclick="myClick(this.id)"></a>
+                <a><img src="Assets/image_3-7.png" class="thumbnail i_1 anim_1" id="spiderman" onclick="myClick(this.id)"></a>
+                <a><img src="Assets/image_3-8.png" class="thumbnail i_2 anim_1" id="flash" onclick="myClick(this.id)"></a>
             </div>
     
             </div>`
@@ -208,18 +208,18 @@ function myClick(film_name) {
         <div id="progress" class="anim_1">
             <h3 id="progress_title">QUESTION 3 OF 3:</h3>
             <div>
-                <img src="/Assets/Ellipse 1.png" class="elipse e_1">
-                <img src="/Assets/Ellipse 1.png" class="elipse e_2">
-                <img src="/Assets/Ellipse 3.png" class="elipse e_3">
+                <img src="Assets/Ellipse_1.png" class="elipse e_1">
+                <img src="Assets/Ellipse_1.png" class="elipse e_2">
+                <img src="Assets/Ellipse_3.png" class="elipse e_3">
             </div>
 
         </div>
         <div id="choices">
             <h1 id="main_question" class="anim_1">Which one do you want to watch now?</h1>
 
-            <a><img src="/Assets/image 3-3.png" class="thumbnail i_0 anim_1" id="top" onclick="myClick(this.id)"></a>
-            <a><img src="/Assets/image 3-4.png" class="thumbnail i_1 anim_1" id="bullet" onclick="myClick(this.id)"></a>
-            <a><img src="/Assets/image 3-5.png" class="thumbnail i_2 anim_1" id="thor" onclick="myClick(this.id)"></a>
+            <a><img src="Assets/image_3-3.png" class="thumbnail i_0 anim_1" id="top" onclick="myClick(this.id)"></a>
+            <a><img src="Assets/image_3-4.png" class="thumbnail i_1 anim_1" id="bullet" onclick="myClick(this.id)"></a>
+            <a><img src="Assets/image_3-5.png" class="thumbnail i_2 anim_1" id="thor" onclick="myClick(this.id)"></a>
         </div>
 
         </div>`
@@ -236,18 +236,18 @@ function myClick(film_name) {
         <div id="progress" class="anim_1">
             <h3 id="progress_title">QUESTION 3 OF 3:</h3>
             <div>
-                <img src="/Assets/Ellipse 1.png" class="elipse e_1">
-                <img src="/Assets/Ellipse 1.png" class="elipse e_2">
-                <img src="/Assets/Ellipse 3.png" class="elipse e_3">
+                <img src="Assets/Ellipse_1.png" class="elipse e_1">
+                <img src="Assets/Ellipse_1.png" class="elipse e_2">
+                <img src="Assets/Ellipse_3.png" class="elipse e_3">
             </div>
 
         </div>
         <div id="choices">
             <h1 id="main_question" class="anim_1">Which one do you want to watch now?</h1>
 
-            <a><img src="/Assets/image 3-3.png" class="thumbnail i_0 anim_1" id="top" onclick="myClick(this.id)"></a>
-            <a><img src="/Assets/image 3-4.png" class="thumbnail i_1 anim_1" id="bullet" onclick="myClick(this.id)"></a>
-            <a><img src="/Assets/image 3-5.png" class="thumbnail i_2 anim_1" id="thor" onclick="myClick(this.id)"></a>
+            <a><img src="Assets/image_3-3.png" class="thumbnail i_0 anim_1" id="top" onclick="myClick(this.id)"></a>
+            <a><img src="Assets/image_3-4.png" class="thumbnail i_1 anim_1" id="bullet" onclick="myClick(this.id)"></a>
+            <a><img src="Assets/image_3-5.png" class="thumbnail i_2 anim_1" id="thor" onclick="myClick(this.id)"></a>
         </div>
 
         </div>`
